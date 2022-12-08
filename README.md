@@ -1,15 +1,15 @@
-## Olá! Meu nome é Eloy e bem-vindo(a) ao meu perfil no GitHub.
+## Olá! Meu nome é Eloy e seja bem-vindo(a) ao meu perfil no GitHub.
 
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando Gestão da Tecnologia da Informação na <a href="https://www.wyden.com.br/unidades/unifavip">UniFavip Wyden</a>.
-<!-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
 - 🌱 &nbsp; Aprendendo mais sobre Python, MySQL, JavaScript, HTML e CSS.
+<!-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
 
 <div align="center">
   <a href="https://github.com/eloymelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloymelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloymelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloymelo&layout=compact&langs_count=7&github_dark"/>
 </div>
 <div style="display: inline_block"><br>
