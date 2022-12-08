@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre Python, MySQL, JavaScript, HTML e CSS.
 <!-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/eloymelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloymelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloymelo&layout=compact&langs_count=7&theme=github_dark"/>-->
@@ -26,7 +26,7 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCsWwv02yyJmw-8z-M6l-L6Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/eloymelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/eloymlo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
   <!--<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:eloyrmelo7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
