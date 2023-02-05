@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando Gestão da Tecnologia da Informação na <a href="https://www.wyden.com.br/unidades/unifavip">UniFavip Wyden</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Python, MySQL, JavaScript, HTML e CSS.
-<!-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>-->
+- 💼 &nbsp; Estagiário de TI no <a href="https://www.linkedin.com/company/3coracoes/">Grupo 3 Corações</a>
 
 <div align="left">
   <a href="https://github.com/eloymelo">
