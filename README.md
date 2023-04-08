@@ -2,7 +2,7 @@
 
 <h3> :man_technologist: &nbsp;About me </h3>
 
-- 🌱 &nbsp; I'm currently learning HTML, CSS, JavaScript and Fluig system.
+- 🌱 &nbsp; I'm currently learning HTML, CSS and JavaScript.
 - 💼 &nbsp; IT intern at <a href="https://www.linkedin.com/company/3coracoes/">Grupo 3corações</a>
 
 <div align="left">
