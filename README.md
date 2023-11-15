@@ -1,22 +1,22 @@
 ## Hello! My name is Eloy. Welcome to my GitHub profile.
 
-<h3> :man_technologist: &nbsp;About me </h3>
+<h3> 🧑🏻‍💻 &nbsp;About me </h3>
 
-- 🌱 &nbsp; I'm currently learning HTML, CSS and JavaScript.
+- 🌱 &nbsp; I'm currently learning Python, JavaScript, HTML and CSS.
 - 💼 &nbsp; IT intern at <a href="https://www.linkedin.com/company/3coracoes/">Grupo 3corações</a>
 
 <div align="left">
   <a href="https://github.com/eloymelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloymelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloymelo&layout=compact&langs_count=7&theme=github_dark"/>-->
+  <<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloymelo&layout=compact&langs_count=7&theme=github_dark"/
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Eloy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eloy-PY" height="30" width="70" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <!--<img align="center" alt="Eloy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <!--<img align="center" alt="Eloy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Eloy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="center" alt="Eloy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eloy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--<img align="center" alt="Eloy-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
+  <img align="center" alt="Eloy-JS" height="30" width="70" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Eloy-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Eloy-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <!--<img align="center" alt="Eloy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
   
