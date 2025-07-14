@@ -26,5 +26,5 @@ My primary goal is to transition into a **Junior Backend Developer** role. I am 
 
 ### 📫 How to Reach Me
 
-* **My Website/Portfolio:** [https://eloymelo.com](https://eloymelo.com)
-* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/eloymelo/)
+* **My Website/Portfolio:** [Click here](https://eloymelo.com)
+* **LinkedIn:** [Click here](https://www.linkedin.com/in/eloymelo/)
