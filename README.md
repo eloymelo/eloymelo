@@ -6,7 +6,7 @@ I'm an IT Professional with a strong foundation in system support, now focusing 
 
 ### 🌱 What I'm Currently Working On
 
-* Deepening my Python knowledge by working through **"Python Crash Course, 3rd Edition"**. You can follow my progress and see my "Try It Yourself" exercises [here](link-to-your-repo).
+* Deepening my Python knowledge by working through **"Python Crash Course, 3rd Edition"**.
 * Sharpening my problem-solving skills with **Python (Basic)** challenges on HackerRank.
 
 ### 🎯 My Goals
