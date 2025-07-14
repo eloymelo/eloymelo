@@ -11,7 +11,7 @@ I'm an IT Professional with a strong foundation in system support, now focusing 
 
 ### 🎯 My Goals
 
-My primary goal is to transition into a **Junior Backend Developer** role. I am passionate about using Python and Linux to build efficient and reliable server-side applications for a great company where I can contribute and grow.
+My primary goal is to transition into a Junior Backend Developer role. I am passionate about using Python and Linux to build and deploy scalable RESTful APIs and work with complex database systems.
 
 ### 🛠️ My Tech Stack & Skills
 
