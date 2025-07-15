@@ -1,4 +1,4 @@
-# Hi there, I'm Eloy 👋
+# Hi there 👋
 
 I'm an IT Professional with a strong foundation in system support, now focusing my career on **Backend Development**.
 
