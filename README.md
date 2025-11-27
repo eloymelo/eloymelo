@@ -7,11 +7,7 @@ IT Professional transitioning from technical support to full-stack development.
 
 * **OS:** Linux, Windows, macOS
 * **Support:** Technical Support, Active Directory, MDM (SOTI MobiControl)
-* **Tools:** Git, GitHub, PowerShell
-
-**Actively Learning:**
-* **Languages:** Python
-* **Concepts:** Backend Development, Object-Oriented Programming, APIs
+* **Tools:** Git, GitHub, PowerShell, Docker, Containerization, Networking
 
 ### How to Reach Me
 
