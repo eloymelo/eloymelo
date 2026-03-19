@@ -6,7 +6,7 @@ I've spent time managing systems in corporate environments and running my own ho
 
 **Systems**: Linux (Debian, Fedora, Arch), Windows, macOS  
 **Automation**: Bash, PowerShell, Python  
-**Tooling**: Docker, Git, Portainer
+**Tooling**: Docker, Git, Portainer  
 **IT**: Active Directory, MDM (SOTI MobiControl), ticketing systems
 
 ## Current focus
