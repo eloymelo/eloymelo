@@ -1,15 +1,19 @@
-# Hello!
+## What I work with
 
-IT Professional transitioning from technical support to full-stack development.
+**Systems** — Linux (Debian, Fedora, Arch), Windows, macOS  
+**Automation** — Bash, PowerShell, Python  
+**Tooling** — Docker, Git, Portainer
+**IT** — Active Directory, MDM (SOTI MobiControl), ticketing systems
 
 ---
-### My Tech Stack & Skills
 
-* **OS:** Linux, Windows, macOS
-* **Support:** Technical Support, Active Directory, MDM (SOTI MobiControl)
-* **Tools:** Git, GitHub, PowerShell, Docker, Python, Containerization, Networking
+## Current focus
 
-### How to Reach Me
+Rebuilding my homelab with proper documentation.
+Everything goes into Git this time.
 
-* **My Website/Portfolio:** [Click here](https://eloymelo.com)
-* **LinkedIn:** [Click here](https://www.linkedin.com/in/eloymelo/)
+---
+
+## Links
+
+[Website](https://eloymelo.com) · [LinkedIn](https://linkedin.com/in/eloymelo)
