@@ -5,14 +5,14 @@
 **Tooling**: Docker, Git, Portainer
 **IT**: Active Directory, MDM (SOTI MobiControl), ticketing systems
 
---
+***
 
 ## Current focus
 
 Rebuilding my homelab with proper documentation.
 Everything goes into Git this time.
 
---
+***
 
 ## Links
 
